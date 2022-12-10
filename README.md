@@ -33,7 +33,9 @@ python manage.py startapp <app_name>
 
   The data that would be needed to run the algorithm would include the user's personal and financial information, such as their credit score, income, outstanding debts, and other relevant details. This data would be used by the algorithm to make a decision about the user's loan eligibility.
 
-  In general, the loan eligibility algorithm would take into account the user's creditworthiness and financial stability, as well as the lender's own criteria for granting loans, to determine whether the user is eligible for a loan. This decision would be based on a combination of the user's credit score, income, outstanding debts, and other factors that are relevant to the lender.
+  In general, the loan eligibility algorithm would take into account the user's creditworthiness and financial stability, as well as the lender's own criteria for granting loans, to determine whether the user is eligible for a loan. This decision would be based on a combination of the user's credit score, income, outstanding debts, and other factors that are relevant to the lender. <br />
+  
+  when you're done with the eligibility, you'll provide what you used in deciding the eligibility.
 - Testing your USSD code to ensure it is functioning correctly.
 
 4. Deploy your Django project to render.com.
