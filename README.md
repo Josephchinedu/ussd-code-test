@@ -25,7 +25,7 @@ python manage.py startapp <app_name>
 3. Build your USSD code, including:
 
 - Defining your USSD menu structure and actions to be taken when users select options.
-  - use the structure here "*347*505#
+  - use the structure here "`*347*505#`"
 - Creating a view to handle incoming USSD requests and process them according to your menu structure.
 - Writing code to handle user input and perform the actions specified in your menu structure.
   - for the first option <br />
