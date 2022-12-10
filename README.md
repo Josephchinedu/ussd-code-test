@@ -1,6 +1,6 @@
 # ussd-code-test
 
-This guide will show you how to create a USSD code in Django.
+This guide will show you how to create a USSD Loan software in django.
 
 ## Prerequisites
 
