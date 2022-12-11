@@ -38,4 +38,4 @@ python manage.py startapp <app_name>
   when you're done with the eligibility, you'll provide what you used in deciding the eligibility.
 - Testing your USSD code to ensure it is functioning correctly.
 
-4. Deploy your Django project to render.com.
+4. Deploy your Django project on render.com.
